@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App_host</string>
+    <string name="btn_txt_gosearch">Buscar en facebook</string>
+</resources>
